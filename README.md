@@ -15,7 +15,7 @@ This repository contains the technical documentation for Lab 3. It provides deta
 ## Documentation and Collaboration Links
 
 - **Overleaf Documentation:**  
-  [Overleaf Project]([https://www.overleaf.com/project/your_project_link](https://www.overleaf.com/1256621935qmvbgsbzvcph#7c3308))  
+  [Overleaf Project](https://www.overleaf.com/1256621935qmvbgsbzvcph#7c3308)  
   
 
 - **Google Colab Notebook:**  
