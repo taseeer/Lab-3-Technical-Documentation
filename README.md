@@ -31,7 +31,13 @@ This repository contains the technical documentation for Lab 3. It provides deta
 
 Below is a link to the `first.py` code snippet for reference:
 
-[View Gist](https://gist.github.com/taseeer/69a57e076b2f2e907b62d9dfaf6e6012)
+## View and Copy Gist
+
+[🔗 View Gist](https://gist.github.com/taseeer/69a57e076b2f2e907b62d9dfaf6e6012)
+
+
+<script src="https://gist.github.com/taseeer/69a57e076b2f2e907b62d9dfaf6e6012.js"></script>
+
 
 
 
