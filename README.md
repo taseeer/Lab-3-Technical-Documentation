@@ -35,9 +35,9 @@ Below is a link to the `first.py` code snippet for reference:
 
 [🔗 View Gist](https://gist.github.com/taseeer/69a57e076b2f2e907b62d9dfaf6e6012)
 
-
+```html
 <script src="https://gist.github.com/taseeer/69a57e076b2f2e907b62d9dfaf6e6012.js"></script>
-
+```
 
 
 
