@@ -16,15 +16,22 @@ This repository contains the technical documentation for Lab 3. It provides deta
 
 - **Overleaf Documentation:**  
   [Overleaf Project](https://www.overleaf.com/1256621935qmvbgsbzvcph#7c3308)  
-  
+ ```html  
+https://www.overleaf.com/1256621935qmvbgsbzvcph#7c3308
+``` 
 
 - **Google Colab Notebook:**  
   [Colab Notebook](https://colab.research.google.com/drive/1AUZElDKZAHUGkJUcQ6QWngCIHmjQTz57?usp=sharing)
+  
+```html  
+https://colab.research.google.com/drive/1AUZElDKZAHUGkJUcQ6QWngCIHmjQTz57?usp=sharing
+```
 
 - **Kaggle Project:**  
   [Kaggle Project](https://www.kaggle.com/code/taseerullah66/hello-py)  
- 
-
+ ```html
+https://www.kaggle.com/code/taseerullah66/hello-py
+```
 ---
 
 ## Code Example
